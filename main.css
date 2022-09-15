@@ -1,0 +1,26 @@
+header {
+    background-color: #666;
+    padding: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.rubrik {
+    text-decoration: underline;
+    font-size: 35px;
+}
+
+
+
+footer {
+    background-color: #777;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
