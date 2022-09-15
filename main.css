@@ -16,12 +16,24 @@ body {
     font-size: 35px;
 }
 
+#underrubrik1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#underrubrik2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
 #link {
     font-family: "Comic Sans MS";
 }
 
-.underrubrik {
+.underrubrik3 {
     font-weight: bolder;
+}
+
+.lista {
+    font-style: italic;
 }
 
 #bild {
